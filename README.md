@@ -1,2 +1,2 @@
 # kmodes-clustering
-How to perform kmodes clustering of mixed variable types utilizing the clustMixType package
+How to perform k-prototypes clustering of mixed variable types utilizing the clustMixType package
